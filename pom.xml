@@ -11,4 +11,5 @@
         <maven.compiler.target>19</maven.compiler.target>
         <exec.mainClass>com.mycompany.clima_bogota.Clima_Bogota</exec.mainClass>
     </properties>
+    <name>Clima_Bogota</name>
 </project>
