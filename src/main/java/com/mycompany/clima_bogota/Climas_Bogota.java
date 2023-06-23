@@ -7,7 +7,7 @@ package com.mycompany.clima_bogota;
 
 /**
  *
- * @author julia
+ * @author Juan Felipe Rojas Miñoz 
  */
 import java.util.Random;
 import java.util.ArrayList;
