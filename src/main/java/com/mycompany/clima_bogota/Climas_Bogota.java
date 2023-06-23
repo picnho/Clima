@@ -8,6 +8,8 @@ package com.mycompany.clima_bogota;
 /**
  *
  * @author Juan Felipe Rojas Muñoz 
+ * 
+ * Este código se realizo para la materia estructura de datos lineales. 
  */
 import java.util.Random;
 import java.util.ArrayList;
